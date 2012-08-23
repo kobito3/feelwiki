@@ -1,0 +1,349 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.7/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.7/ http://www.mediawiki.org/xml/export-0.7.xsd" version="0.7" xml:lang="ja">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8</base>
+    <generator>MediaWiki 1.20wmf8</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">メディア</namespace>
+      <namespace key="-1" case="first-letter">特別</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">ノート</namespace>
+      <namespace key="2" case="first-letter">利用者</namespace>
+      <namespace key="3" case="first-letter">利用者‐会話</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia‐ノート</namespace>
+      <namespace key="6" case="first-letter">ファイル</namespace>
+      <namespace key="7" case="first-letter">ファイル‐ノート</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki‐ノート</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template‐ノート</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help‐ノート</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category‐ノート</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal‐ノート</namespace>
+      <namespace key="102" case="first-letter">プロジェクト</namespace>
+      <namespace key="103" case="first-letter">プロジェクト‐ノート</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Wikipedia:アップロードログ 2004年4月</title>
+    <ns>4</ns>
+    <id>1</id>
+    <restrictions>sysop</restrictions>
+    <revision>
+      <id>2168855</id>
+      <parentid>299151</parentid>
+      <timestamp>2004-04-30T14:46:00Z</timestamp>
+      <contributor>
+        <username>Oxhop</username>
+        <id>2551</id>
+      </contributor>
+      <minor />
+      <comment>&quot;LocationMacedonia.png&quot;をアップロードしました。: マケドニアの位置 - 英語版より</comment>
+      <sha1>0atpn2yli6qvrd8xzq2nnu6zp0ayovq</sha1>
+      <text xml:space="preserve">&lt;ul&gt;&lt;li&gt;14:46 2004年4月30日 [[利用者:Oxhop|Oxhop]] &quot;[[:画像:LocationMacedonia.png|LocationMacedonia.png]]&quot;をアップロードしました。 &lt;em&gt;(マケドニアの位置 - 英語版より)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;14:40 2004年4月30日 [[利用者:Oxhop|Oxhop]] &quot;[[:画像:Macedonia_coa.png|Macedonia_coa.png]]&quot;をアップロードしました。 &lt;em&gt;(マケドニアの国章 - 英語版画像を加工)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;14:39 2004年4月30日 [[利用者:Oxhop|Oxhop]] &quot;[[:画像:Macedonia_flag_medium.png|Macedonia_flag_medium.png]]&quot;をアップロードしました。 &lt;em&gt;(マケドニアの国旗 - 英語版より)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;09:42 2004年4月30日 [[利用者:Kim H Yusuke|Kim H Yusuke]] &quot;[[:画像:Car_honda_civic_EF_240pix.jpg|Car_honda_civic_EF_240pix.jpg]]&quot;をアップロードしました。 &lt;em&gt;(自動車：シビック：EF型写真：VGA)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;09:34 2004年4月30日 [[利用者:Kim H Yusuke|Kim H Yusuke]] &quot;[[:画像:Car_honda_civic_EF_VGA.jpg|Car_honda_civic_EF_VGA.jpg]]&quot;をアップロードしました。 &lt;em&gt;(自動車：シビック：EF型写真：VGA)&lt;/em&gt;&lt;/li&gt;
+
+== プレビュー機能のお知らせ  ==
+[[ファイル:Preview.png|500px|thumb|投稿時、中央のボタンを押すとプレビューできます。（[[:ファイル:Preview-Template.jpg|詳細画像]]）]]
+こんにちは。ウィキペディアへのご寄稿ありがとうございます。Satoruasakaさんが同じ記事に対して短時間に連続して投稿されているようでしたので、'''プレビュー機能'''のお知らせに参りました。投稿する前に「プレビューを実行」のボタンを押すと、編集結果を先に見ることができます。
+
+これを使うことで
+* [[Help:ページの編集#マークアップ|マークアップ]]
+* [[Help:ページの編集#リンク|リンク]]
+* [[誤植|誤字脱字]]
+などをあらかじめチェックし、修正してから投稿していただくことにより、同じ記事への連続投稿を減らすことができます。この利点については、[[Wikipedia:同じ記事への連続投稿を減らす|同じ記事への'''連続投稿を減らす''']]の項目に説明がありますので、よろしければお読みください。また、[[Wikipedia:ガイドブック|ガイドブック]]にウィキペディア全体のことについて分かりやすく解説されていますので、あわせてお読みいただけると幸いです。ご理解とご協力をよろしくお願いします。なお、もしすでにご存知のことでしたら、悪しからずお願いいたします。--[[利用者:Tomo_suzuki|&lt;font face=&quot;Monotype corsiva&quot; size=&quot;4&quot; style=&quot;color:#000000;color:black&quot;&gt;&lt;i&gt;T_suzu&lt;/i&gt;&lt;/font&gt;]] ([[利用者・トーク:Tomo_suzuki|&lt;small&gt;Talk&lt;/small&gt;]]&lt;small&gt;/&lt;/small&gt;[[特別:Contributions/Tomo_suzuki|&lt;small&gt;History&lt;/small&gt;]]) 2012年8月6日 (月) 20:57 (UTC)</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:原由子の楽曲</title>
+    <ns>14</ns>
+    <id>2619182</id>
+    <revision>
+      <id>43642599</id>
+      <parentid>43642577</parentid>
+      <timestamp>2012-08-06T21:26:07Z</timestamp>
+      <contributor>
+        <ip>220.220.76.113</ip>
+      </contributor>
+      <sha1>5yhr805dhogwt419g49h0aytw0oanxo</sha1>
+      <text xml:space="preserve">&lt;div class=&quot;pathnavbox&quot;&gt;
+* {{Pathnav|主要カテゴリ|文化|[[:Category:作品|作品]]・[[:Category:音楽|音楽]]|hide=1}}
+** {{Pathnav|[[:Category:楽曲|楽曲]]・[[:Category:各アーティストのシングル|各アーティストのシングル]]|各アーティストの楽曲}}
+** {{Pathnav|音楽家|ミュージシャン|歌手|シンガーソングライター|日本のキーボーディスト|[[原由子]]}}
+** {{Pathnav|J-POP|ビクターエンタテインメントの楽曲|サザンオールスターズの楽曲}}
+&lt;/div&gt;
+
+[[日本]]の[[音楽家|ミュージシャン]]である[[原由子]]の[[楽曲]]全般に関する[[カテゴリ]]。
+
+{{DEFAULTSORT:はらゆうこのかつきよく}}
+[[category:各アーティストの楽曲]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>宮﨑薫</title>
+    <ns>0</ns>
+    <id>2619183</id>
+    <redirect title="宮崎薫" />
+    <revision>
+      <id>43642625</id>
+      <timestamp>2012-08-06T21:30:12Z</timestamp>
+      <contributor>
+        <username>Colocolo</username>
+        <id>128704</id>
+      </contributor>
+      <comment>Colocolo がページ「[[宮﨑薫]]」を「[[宮崎薫]]」に移動しました：機種依存文字が含まれるため</comment>
+      <sha1>bbscua2mwom4jrmv38wde9vdeeu4u2h</sha1>
+      <text xml:space="preserve">#転送 [[宮崎薫]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Chanpuru</title>
+    <ns>0</ns>
+    <id>2619184</id>
+    <revision>
+      <id>43642818</id>
+      <parentid>43642719</parentid>
+      <timestamp>2012-08-06T21:57:13Z</timestamp>
+      <contributor>
+        <username>Chiba ryo</username>
+        <id>223429</id>
+      </contributor>
+      <comment>sd（全文ドイツ語で、[[チャンプルー]]と重複、リダイレクトするにも価せず）</comment>
+      <sha1>tccnx9w4tiq0lgvqd8hcw3xsk4o6k7z</sha1>
+      <text xml:space="preserve">{{sd|全般3|全文ドイツ語でしかも[[チャンプルー]]と重複}}
+Chanpuru(jap.チャンプルー) ist ein Japanisches Gericht aus Okinawa mit Gemüses, Tofu und Fleisch oder Fische. Vor allem auf Okinawa ist dieses Gericht sehr verbreitet. Chanpuru bedeutet „mischen“ oder „ vermischen&quot; im Okinawa-Dialekt.
+|}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:削除依頼/紗倉まな 20120807</title>
+    <ns>4</ns>
+    <id>2619185</id>
+    <revision>
+      <id>43642915</id>
+      <parentid>43642807</parentid>
+      <timestamp>2012-08-06T22:10:30Z</timestamp>
+      <contributor>
+        <username>Tomo suzuki</username>
+        <id>11928</id>
+      </contributor>
+      <comment>対処・特定版削除</comment>
+      <sha1>29pg1cpecf1a2usz3wlwx2moj5u1yhg</sha1>
+      <text xml:space="preserve">=== (*緊特)[[紗倉まな]] - [[ノート:紗倉まな|ノート]] ===
+{{確認待ち}}
+&lt;noinclude&gt;[[Category:緊急案件]]&lt;/noinclude&gt;{{User2|Mabery}}氏による[http://ja.wikipedia.org/w/index.php?diff=prev&amp;oldid=43641974 2012年8月6日 (月) 19:25版]より、真偽不明の非公開情報の記述。
+
+*{{AFD|緊急}} 依頼者票。同版以降の緊急特定版削除。--[[利用者:Tiyoringo|Tiyoringo]]（[[利用者‐会話:Tiyoringo|会話]]） 2012年8月6日 (月) 21:55 (UTC)
+** {{対処}} 2012年8月6日 (月) 19:25以降の版を[[特別:復帰/紗倉まな/del 20120806|/del 20120806]]にて特定版削除しました。--[[利用者:Tomo_suzuki|&lt;font face=&quot;Monotype corsiva&quot; size=&quot;4&quot; style=&quot;color:#000000;color:black&quot;&gt;&lt;i&gt;T_suzu&lt;/i&gt;&lt;/font&gt;]] ([[利用者・トーク:Tomo_suzuki|&lt;small&gt;Talk&lt;/small&gt;]]&lt;small&gt;/&lt;/small&gt;[[特別:Contributions/Tomo_suzuki|&lt;small&gt;History&lt;/small&gt;]]) 2012年8月6日 (月) 22:10 (UTC)</text>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:削除依頼/聖闘士星矢Ω登場人物一覧</title>
+    <ns>4</ns>
+    <id>2619186</id>
+    <revision>
+      <id>43642817</id>
+      <timestamp>2012-08-06T21:57:05Z</timestamp>
+      <contributor>
+        <username>C-STAR</username>
+        <id>371793</id>
+      </contributor>
+      <comment>[[WP:AES|←]]新しいページ: '=== {{subst:Article|聖闘士星矢Ω登場人物一覧}} === 親記事にて分割提案や新規立項提案が無い立項。即時削除全般1が不適切...'</comment>
+      <sha1>7vbo4nj65iaigg9jnvdrxk837rjnywd</sha1>
+      <text xml:space="preserve">=== [[聖闘士星矢Ω登場人物一覧]] - [[ノート:聖闘士星矢Ω登場人物一覧|ノート]] ===
+親記事にて分割提案や新規立項提案が無い立項。即時削除全般1が不適切として差し戻されていますが、過去に[[Wikipedia:削除依頼/聖闘士星矢Ω関連20120613]]で一度一覧記事が削除されており、全般5に近い内容です。すでに複数のユーザーの投稿もあるため即時削除は適切ではないと思われますが、新たな資料の提示も無く、[[Wikipedia:キャラクターの記述に対するガイドライン]]の観点から見ても不適切な内容の一覧記事のため削除を依頼します。--[[利用者:C-STAR|C]]（[[利用者‐会話:C-STAR|会話]]） 2012年8月6日 (月) 21:57 (UTC)
+*{{AFD|削除}}　依頼者票。ケースE。--[[利用者:C-STAR|C]]（[[利用者‐会話:C-STAR|会話]]） 2012年8月6日 (月) 21:57 (UTC)</text>
+    </revision>
+  </page>
+  <page>
+    <title>利用者‐会話:114.191.28.34</title>
+    <ns>3</ns>
+    <id>2619187</id>
+    <revision>
+      <id>43642872</id>
+      <timestamp>2012-08-06T22:04:57Z</timestamp>
+      <contributor>
+        <username>Tiyoringo</username>
+        <id>70026</id>
+      </contributor>
+      <comment>[[WP:AES|←]]新しいページ: 'こんにちは、[[木更津工業高等専門学校]]の学生さんでしょうか。例えば在学している、卒業している、職員であるな...'</comment>
+      <sha1>ermwaczhr1ls3vrzia9fa9x8k7nj7ns</sha1>
+      <text xml:space="preserve">こんにちは、[[木更津工業高等専門学校]]の学生さんでしょうか。例えば在学している、卒業している、職員であるなどの理由により知っていることがあってもそうしたものは[[Wikipedia:検証可能性]]を満たさないものとしてWikipedia上では[[Wikipedia:独自研究を載せない]]に反するものとなります。[[Wikipedia:信頼できる情報源]]による[[Wikipedia:出典を明記する]]ようお願いします。--[[利用者:Tiyoringo|Tiyoringo]]（[[利用者‐会話:Tiyoringo|会話]]） 2012年8月6日 (月) 22:04 (UTC)</text>
+    </revision>
+  </page>
+  <page>
+    <title>紗倉まな</title>
+    <ns>0</ns>
+    <id>2619188</id>
+    <revision>
+      <id>43642899</id>
+      <parentid>43458081</parentid>
+      <timestamp>2012-08-06T22:08:26Z</timestamp>
+      <contributor>
+        <username>Tomo suzuki</username>
+        <id>11928</id>
+      </contributor>
+      <minor />
+      <comment>Tomo suzuki がページ「[[紗倉まな/del 20120806]]」を「[[紗倉まな]]」に、リダイレクトを残さずに移動しました：特定版削除完了</comment>
+      <sha1>cour8oe3h2o5abawv0axhcuee648bl8</sha1>
+      <text xml:space="preserve">{{性的}}
+{{AV女優
+|名前=紗倉 まな
+|ふりがな=さくら まな
+|本名=
+|別名=
+|愛称=
+|生年=1993
+|生月=3
+|生日=23
+|出身地={{JPN}}
+|血液型=B
+|時点=
+|身長=156
+|体重=
+|バスト=89
+|ウエスト=58
+|ヒップ=89
+|カップ=F
+|身体備考=
+|ジャンル=
+|AV出演期間=2012年 - 
+|専属契約=[[ソフトオンデマンド]]
+|活動備考=
+|他の活動=
+|その他=
+}}
+'''紗倉 まな'''（さくら まな [[1993年]][[3月23日]]- ）は日本の[[AV女優]]。[[工場萌え]]美少女として売り出されている。
+
+== 略歴 ==
+18歳の誕生日の翌日に事務所に応募した&lt;ref&gt;[[週刊大衆]] 2012年6月25日号 220頁 「2012年上半期もぎたて新人AVアイドル厳選10人」&lt;/ref&gt;。2011年11月、『工場萌え美少女 紗倉まな 18歳』でイメージビデオデビュー、[[グラビア]]でも活動していたが、2012年2月、『紗倉まな AVDebut』でAVデビューした&lt;ref&gt;『ショートヘアの究極美女』19-22頁 ミリオン出版 2012年6月20日
+&lt;/ref&gt;。同年4月16日にまとめられた[[DMM.com]]ランキングでは作品別と女優別ランキングで1位となった&lt;ref&gt;{{cite journal|date=2012-05-22 |publisher=DMM.com |journal=月刊DMM |date=2012年7月号 |pages=104-106 }}&lt;/ref&gt;。同年6月18日には、[[石井哲]]、[[大山顕]]のタッグによるトークイベント「製鉄所萌えナイト」に[[瀬戸ちひろ]]とゲストに招かれた&lt;ref&gt;{{cite web|url=http://blog.excite.co.jp/exanime/18102706/ |title=「製鉄所萌えナイト」開催決定!! |publisher=エキサイトアニメニュース |date= |accessdate=2012-06-22 }}&lt;/ref&gt;。2012年7月22日放送の『[[さんま・中居の今夜も眠れない]]』にて「[[さんま・中居の今夜も眠れない#ラブメイト10|ラブメイト10]]」の第7位に選ばれた。
+
+{{デフォルトソート:さくら まな}}
+[[Category:日本のAV女優]]
+[[Category:SOD女優]]
+[[Category:1993年生]]
+[[Category:存命人物]]
+{{pornstar-stub}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:削除依頼/ある高専</title>
+    <ns>4</ns>
+    <id>2619189</id>
+    <revision>
+      <id>43642996</id>
+      <parentid>43642965</parentid>
+      <timestamp>2012-08-06T22:22:01Z</timestamp>
+      <contributor>
+        <username>Tomo suzuki</username>
+        <id>11928</id>
+      </contributor>
+      <comment>対処・特定版削除</comment>
+      <sha1>rz47abrz1pp3kh8k2rf80n7je2d4jjo</sha1>
+      <text xml:space="preserve">=== (*緊特)ある高専 ===
+{{確認待ち}}
+&lt;noinclude&gt;[[Category:緊急案件]]&lt;/noinclude&gt;
+[http://ja.wikipedia.org/w/index.php?diff=next&amp;oldid=43050487 2012年6月23日 (土) 18:43版]で公開されていることが確認できないある人物の個人情報の記述。2012年6月24日 (日) 05:37版までこの記述があります。さらに[http://ja.wikipedia.org/w/index.php?&amp;diff=next&amp;oldid=43055989 2012年7月30日 (月) 08:35版]で同様の記述、さらに[http://ja.wikipedia.org/w/index.php?diff=next&amp;oldid=43560122 2012年8月6日 (月) 19:21版]でよりセンシティブな記述。
+
+2012年6月23日 (土) 18:43版から2012年6月24日 (日) 05:37版まで及び、2012年7月30日 (月) 08:35版以降の緊急特定版削除を依頼します。
+
+* {{AFD|緊急}} 依頼者票。--[[利用者:Tiyoringo|Tiyoringo]]（[[利用者‐会話:Tiyoringo|会話]]） 2012年8月6日 (月) 22:17 (UTC)
+** {{対処}} 履歴を検討いたしましたところ、2012年6月23日 (土) 18:26以降の版で有意な編集が見られませんでしたので、同版以降を[[特別:復帰/木更津工業高等専門学校/del 20120806|/del 20120806]]にて特定版削除しました。--[[利用者:Tomo_suzuki|&lt;font face=&quot;Monotype corsiva&quot; size=&quot;4&quot; style=&quot;color:#000000;color:black&quot;&gt;&lt;i&gt;T_suzu&lt;/i&gt;&lt;/font&gt;]] ([[利用者・トーク:Tomo_suzuki|&lt;small&gt;Talk&lt;/small&gt;]]&lt;small&gt;/&lt;/small&gt;[[特別:Contributions/Tomo_suzuki|&lt;small&gt;History&lt;/small&gt;]]) 2012年8月6日 (月) 22:22 (UTC)</text>
+    </revision>
+  </page>
+  <page>
+    <title>WP:SWTNO</title>
+    <ns>0</ns>
+    <id>2619190</id>
+    <redirect title="Wikipedia:ネタバレ系テンプレートの使用ガイドライン" />
+    <revision>
+      <id>43643001</id>
+      <parentid>43642968</parentid>
+      <timestamp>2012-08-06T22:22:43Z</timestamp>
+      <contributor>
+        <username>Bugandhoney</username>
+        <id>432974</id>
+      </contributor>
+      <comment>[[WP:AES|←]][[Wikipedia:ネタバレ系テンプレートの使用ガイドライン#使用すべきでない例]]へのリダイレクト</comment>
+      <sha1>el4z9sg4cy592rrltki8pz86i7m021t</sha1>
+      <text xml:space="preserve">#REDIRECT[[Wikipedia:ネタバレ系テンプレートの使用ガイドライン#使用すべきでない例]]
+
+[[Category:ショートカット用リダイレクト]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>WP:SWTYES</title>
+    <ns>0</ns>
+    <id>2619191</id>
+    <redirect title="Wikipedia:ネタバレ系テンプレートの使用ガイドライン" />
+    <revision>
+      <id>43642995</id>
+      <parentid>43642976</parentid>
+      <timestamp>2012-08-06T22:21:53Z</timestamp>
+      <contributor>
+        <username>Bugandhoney</username>
+        <id>432974</id>
+      </contributor>
+      <comment>[[WP:AES|←]][[Wikipedia:ネタバレ系テンプレートの使用ガイドライン#使用を検討してもよい例]]へのリダイレクト</comment>
+      <sha1>3tlzcfxf5t1j80wnzi1087r11sxx8xi</sha1>
+      <text xml:space="preserve">#REDIRECT[[Wikipedia:ネタバレ系テンプレートの使用ガイドライン#使用を検討してもよい例]]
+
+[[Category:ショートカット用リダイレクト]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>木更津工業高等専門学校</title>
+    <ns>0</ns>
+    <id>2619192</id>
+    <revision>
+      <id>43642988</id>
+      <parentid>42525924</parentid>
+      <timestamp>2012-08-06T22:20:39Z</timestamp>
+      <contributor>
+        <username>Tomo suzuki</username>
+        <id>11928</id>
+      </contributor>
+      <minor />
+      <comment>Tomo suzuki がページ「[[木更津工業高等専門学校/del 20120806]]」を「[[木更津工業高等専門学校]]」に、リダイレクトを残さずに移動しました：特定版削除完了</comment>
+      <sha1>bean3os306ulpp0ikdbdgv8cx2fhwdm</sha1>
+      <text xml:space="preserve">{{高等専門学校
+| 学校名       = 木更津工業高等専門学校
+| 画像         = 
+| 画像説明     = 
+| 略称         = 木更津高専、木高専、木更津工専
+| 英称         = Kisarazu National College of Technology
+| 英略称       = KNCT
+| 設置者       = 国立高等専門学校機構
+| 種別         = 国工
+| 併合学校     =
+| 校訓         =
+| 設立年       = 1967
+| 閉校年       =   
+| 学科         = 機械工学科&lt;br /&gt;電気電子工学科&lt;br /&gt;電子制御工学科&lt;br /&gt;情報工学科&lt;br /&gt;環境都市工学科
+| 専攻科       = 機械電子システム工学専攻&lt;br /&gt;制御情報システム工学専攻&lt;br /&gt;環境建設工学専攻
+| 郵便番号     = 292-0041
+| 所在地       = [[千葉県]][[木更津市]]清見台東2-11-1
+| 緯度度 = 35|緯度分 = 23|緯度秒 = 4.46
+| 経度度 = 139|経度分 = 57|経度秒 = 20.24
+| ウェブサイト = http://www.kisarazu.ac.jp/
+}}
+'''木更津工業高等専門学校'''（きさらづこうぎょうこうとうせんもんがっこう、英称:Kisarazu National College of Technology）は、[[千葉県]][[木更津市]]にある日本の国立[[高等専門学校]]である。[[1967年]]に設置された。略称は'''木更津高専'''または'''木高専'''、'''木更津工専'''。
+
+== 概要 ==
+学科は、機械工学科・電気電子工学科・電子制御工学科・情報工学科・環境都市工学科の5つがある。創立時には、土木工学科が存在したが、[[1994年]]に環境都市工学科に改組されている。また、創立時にあった電気工学科も[[2000年]]に電気電子工学科へ改称された。最近、[[KETpic]]の研究がされている。
+
+木更津工業高等専門学校には専攻科が設置されている。5年間の学科過程を卒業した後の進路として、学生は専攻科を選択することが出来る。専攻科には、機械・電子システム専攻、制御・情報システム専攻、環境建設工学専攻がある。
+
+[[Category:学校記事]]</text>
+    </revision>
+  </page>
+</mediawiki>
